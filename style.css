@@ -206,7 +206,7 @@ body {
 
 /* Nikah Section Background (Kolkata) */
 #nikah {
-    background: url("kolkata.jpg") center/cover no-repeat;
+    background: url("https://media.istockphoto.com/id/500159014/vector/kolkata-skyline-vector-vintage-illustration-drawn.jpg?s=612x612&w=0&k=20&c=Fqx04ibvu_ZYX_ZEp9VooLbk7uOPOIhMipOiK1GPmkA=") center/cover no-repeat;
     padding: 80px 0;
     background-attachment: fixed;
     position: relative;
@@ -215,7 +215,7 @@ body {
 
 /* Valima Section Background (Hyderabad) */
 #valima {
-    background: url("hyderabad.jpg") center/cover no-repeat;
+    background: url("https://media.istockphoto.com/id/543841924/vector/hyderabad-skyline-vector-illustration-drawn-sketch.jpg?s=612x612&w=0&k=20&c=WvGQ_PdDXZvAbA951nEyoRTl6lF1jtYF5lz6fJnVYGs=") center/cover no-repeat;
     padding: 80px 0;
     background-attachment: fixed;
     position: relative;
@@ -262,3 +262,4 @@ body {
 .hero-wedding {
     text-shadow: 1px 2px 6px rgba(0,0,0,0.2);
 }
+
